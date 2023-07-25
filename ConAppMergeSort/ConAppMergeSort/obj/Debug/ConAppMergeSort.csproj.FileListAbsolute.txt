@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day12\ConAppMergeSort\ConAppMergeSort\bin\Debug\ConAppMergeSort.exe.config
+D:\Mphasis\Live Session\Day12\ConAppMergeSort\ConAppMergeSort\bin\Debug\ConAppMergeSort.exe
+D:\Mphasis\Live Session\Day12\ConAppMergeSort\ConAppMergeSort\bin\Debug\ConAppMergeSort.pdb
+D:\Mphasis\Live Session\Day12\ConAppMergeSort\ConAppMergeSort\obj\Debug\ConAppMergeSort.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day12\ConAppMergeSort\ConAppMergeSort\obj\Debug\ConAppMergeSort.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day12\ConAppMergeSort\ConAppMergeSort\obj\Debug\ConAppMergeSort.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day12\ConAppMergeSort\ConAppMergeSort\obj\Debug\ConAppMergeSort.exe
+D:\Mphasis\Live Session\Day12\ConAppMergeSort\ConAppMergeSort\obj\Debug\ConAppMergeSort.pdb

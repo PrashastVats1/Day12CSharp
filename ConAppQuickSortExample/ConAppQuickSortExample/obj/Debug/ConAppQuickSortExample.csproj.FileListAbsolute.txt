@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day12\ConAppQuickSortExample\ConAppQuickSortExample\bin\Debug\ConAppQuickSortExample.exe.config
+D:\Mphasis\Live Session\Day12\ConAppQuickSortExample\ConAppQuickSortExample\bin\Debug\ConAppQuickSortExample.exe
+D:\Mphasis\Live Session\Day12\ConAppQuickSortExample\ConAppQuickSortExample\bin\Debug\ConAppQuickSortExample.pdb
+D:\Mphasis\Live Session\Day12\ConAppQuickSortExample\ConAppQuickSortExample\obj\Debug\ConAppQuickSortExample.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day12\ConAppQuickSortExample\ConAppQuickSortExample\obj\Debug\ConAppQuickSortExample.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day12\ConAppQuickSortExample\ConAppQuickSortExample\obj\Debug\ConAppQuickSortExample.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day12\ConAppQuickSortExample\ConAppQuickSortExample\obj\Debug\ConAppQuickSortExample.exe
+D:\Mphasis\Live Session\Day12\ConAppQuickSortExample\ConAppQuickSortExample\obj\Debug\ConAppQuickSortExample.pdb

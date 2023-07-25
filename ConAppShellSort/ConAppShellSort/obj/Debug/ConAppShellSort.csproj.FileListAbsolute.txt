@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day12\ConAppShellSort\ConAppShellSort\bin\Debug\ConAppShellSort.exe.config
+D:\Mphasis\Live Session\Day12\ConAppShellSort\ConAppShellSort\bin\Debug\ConAppShellSort.exe
+D:\Mphasis\Live Session\Day12\ConAppShellSort\ConAppShellSort\bin\Debug\ConAppShellSort.pdb
+D:\Mphasis\Live Session\Day12\ConAppShellSort\ConAppShellSort\obj\Debug\ConAppShellSort.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day12\ConAppShellSort\ConAppShellSort\obj\Debug\ConAppShellSort.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day12\ConAppShellSort\ConAppShellSort\obj\Debug\ConAppShellSort.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day12\ConAppShellSort\ConAppShellSort\obj\Debug\ConAppShellSort.exe
+D:\Mphasis\Live Session\Day12\ConAppShellSort\ConAppShellSort\obj\Debug\ConAppShellSort.pdb
